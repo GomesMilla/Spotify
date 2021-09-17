@@ -1,11 +1,11 @@
 <h1 align="center">SPOTIFY</h1>
 <p>Criar um clone do 'SPOTIFY' para promover o aprendizado no HTML e CSS puro e principalmente entender como trabalhar com a responsividade. </p>
 <h4 align="center"> 
-	🚧  Status 🚀 Refatorando o código  🚧
+	🚧  Status 🚀 Em construção..  🚧
 </h4>
 
 <h1 align="center">
-  <img alt="Imagem de inicio" title="#INICIO" src="imagens/Maiores.png" />
+  <img alt="Imagem de inicio" title="#INICIO" src="imagens/README.png" />
 </h1>
 <p text-align="justify">Criar um clone do 'SPOTIFY' para promover o aprendizado no HTML e CSS puro e principalmente entender como trabalhar com a responsividade.</p>
 <p text-align="justify">Este projeto faz parte do meu portfólio pessoal, então, ficarei feliz caso você forneça algum feedback, código, estrutura, funcionalidade ou qualquer melhoria que você possa relatar para melhora-lo.Você pode usar este projeto como quiser, seja para estudar, fazer melhorias, você quem manda!.</p>
@@ -21,12 +21,12 @@ Este é um projeto totalmente grátis!
 <h1 align="center">
   <img alt="Imagem de inicio" title="#INICIO" src="imagens/Maiores.png" />
 </h1>
-<h1 align="center">
+<!-- <h1 align="center">
   <img alt="Imagem de inicio" title="#INICIO" src="imagens/Tablet.png" />
 </h1>
 <h1 align="center">
   <img alt="Imagem de inicio" title="#INICIO" src="imagens/Mobile.png" />
-</h1>
+</h1> -->
 
 
 ## 👩‍💻 Technologies & Tools
