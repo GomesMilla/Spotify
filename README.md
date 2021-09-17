@@ -19,7 +19,7 @@ Este é um projeto totalmente grátis!
 </h4>
 
 <h1 align="center">
-  <img alt="Imagem de inicio" title="#INICIO" src="imagens/Maiores.png" />
+  <img alt="Imagem de inicio" title="#INICIO" src="imagens/README.png" />
 </h1>
 <!-- <h1 align="center">
   <img alt="Imagem de inicio" title="#INICIO" src="imagens/Tablet.png" />
